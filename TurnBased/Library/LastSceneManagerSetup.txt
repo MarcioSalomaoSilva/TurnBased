@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/TBS/Scenes/Main.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/TBS/Scenes/ATB System.unity
+  isLoaded: 1
+  isActive: 0
